@@ -182,5 +182,3 @@ Pre-Final Year M.Tech Integrated Software Engineering Student, VIT
 Machine Learning | Data Science | Web Development 
 
 ---
-
-⭐ If you found this project useful, feel free to star the repository!
